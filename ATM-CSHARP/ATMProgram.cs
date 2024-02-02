@@ -70,7 +70,7 @@
             catch { Console.WriteLine("Card not recognized. Please try again.\n"); }
         }
 
-        Console.WriteLine("Please enter yout pin!");
+        Console.WriteLine("Please enter your pin!");
         int userPin = 0;
         while (true)
         {
