@@ -1,13 +1,12 @@
-using System;
-public class cardHolder
+public class CardHolder
 {
     private int cardNum;
     private int pin;
-    private String firstName;
-    private String lastName;
+    private string firstName;
+    private string lastName;
     private double balance;
 
-    public cardHolder(int cardNum, int pin, string firstName, string lastName, double balance)
+    public CardHolder(int cardNum, int pin, string firstName, string lastName, double balance)
     {
         this.cardNum = cardNum;
         this.pin = pin;
@@ -16,7 +15,7 @@ public class cardHolder
         this.balance = balance;
     }
 
-    public int getNum()
+    public int getCardNum()
     {
         return cardNum;
     }
@@ -26,12 +25,12 @@ public class cardHolder
         return pin;
     }
 
-    public String getFirstName()
+    public string getFirstName()
     {
         return firstName;
     }
 
-    public String getLastName()
+    public string getLastName()
     {
         return lastName;
     }

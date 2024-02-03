@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-CSHARP\\ATM-CSHARP.csproj": {}
+    "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-Csharp\\ATM-CSHARP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-CSHARP\\ATM-CSHARP.csproj": {
+    "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-Csharp\\ATM-CSHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-CSHARP\\ATM-CSHARP.csproj",
+        "projectUniqueName": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-Csharp\\ATM-CSHARP.csproj",
         "projectName": "ATM-CSHARP",
-        "projectPath": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-CSHARP\\ATM-CSHARP.csproj",
+        "projectPath": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-Csharp\\ATM-CSHARP.csproj",
         "packagesPath": "C:\\Users\\Quelp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-CSHARP\\obj\\",
+        "outputPath": "C:\\Users\\Quelp\\OneDrive\\Ambiente de Trabalho\\Projetos 2024\\ATM-CSHARP\\ATM-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quelp\\AppData\\Roaming\\NuGet\\NuGet.Config"
